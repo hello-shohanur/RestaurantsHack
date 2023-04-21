@@ -16,7 +16,7 @@ void about();
 void vegetables();                                       // © 2021-2022, Restaurant's Hack.
 void protein();                                         // All Rights Reserved
 void fruits();                                         // @author: Shohanur Rahman
-void grains();                                        //GitHub: https://github.com/shohanurr3401/RestaurantsHack
+void grains();                                        //GitHub: https://github.com/shohan-cse/RestaurantsHack
 void dairy();
 //Vegetables List
 void spinach();
